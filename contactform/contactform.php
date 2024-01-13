@@ -11,7 +11,7 @@
   $contactform->ajax = true;
 
   // Replace with your real receiving email address
-  $contactform->to = 'mohamedmelek.chtourou@esprit.tn';
+  $contactform->to = 'talbi21519669@gmail.com';
   $contactform->from_name = $_POST['name'];
   $contactform->from_email = $_POST['email'];
   $contactform->subject = $_POST['subject'];
