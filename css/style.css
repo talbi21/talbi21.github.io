@@ -309,6 +309,9 @@ h6 {
 .column3 {
   width: 50%;
   text-align: center;
+  padding-left: 250px;
+  padding-bottom: 250px;
+  padding-right: 250px;
   /* padding: 5px; */
 }
 .row::after {
