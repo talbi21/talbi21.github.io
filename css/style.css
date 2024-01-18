@@ -308,7 +308,7 @@ h6 {
 }
 .column3 {
   width: 100%;
-  float: left;
+  float: center;
   text-align: center;
   /* padding: 5px; */
 }
