@@ -323,6 +323,7 @@ h6 {
 
 .center-logo {
   text-align: center;
+  border: 2px solid black;
 }
 
 #links {
