@@ -320,8 +320,12 @@ h6 {
   display: table;
 }
 
+.center-logo {
+  text-align: center;
+}
+
 #links {
-  width: 2500px;
+  width: 250px;
   height: 150px;
 }
 #imagework {
