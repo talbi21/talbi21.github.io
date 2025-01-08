@@ -132,8 +132,9 @@ setup();
 
 //
 var _CONTENT = [ 
-	"A Geek", 
+	"A Mobile Software Engineer", 
 	"A Fullstack Developer", 
+	"A Geek", 
 ];
 
 // Current sentence being processed
